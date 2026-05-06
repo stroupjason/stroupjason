@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jason Stroup
 
-<!--
-**stroupjason/stroupjason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support Engineer (TSE) focused on customer-facing technical problem solving, application support, MERN FullStack Development, API troubleshooting, and support engineering workflows.
 
-Here are some ideas to get you started:
+I am currently rebuilding my JavaScript foundation through freeCodeCamp and Pluralsight while documenting my learning publicly through daily logs, GitHub commits, and applied support-engineering mini-projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- JavaScript fundamentals
+- DOM manipulation and events
+- API troubleshooting
+- Debugging workflows
+- Support engineering / customer engineering projects
+- CU Boulder MS-CS coursework
+- GenAI application engineering foundations
+
+## Active Learning
+
+- [JavaScript Learning Archive](https://github.com/stroupjason/javascript-learning-archive)
+- [freeCodeCamp Profile](https://www.freecodecamp.org/stroupjason)
+- freeCodeCamp JavaScript Algorithms and Data Structures
+- Pluralsight JavaScript 2022 path
+- Support-engineering-focused mini-projects
+
+## Career Direction
+
+I am building towards a Senior Technical Support Engineer, Customer Success Engineer, Application Support Engineer, and Forward Deployed Engineer-style roles where technical troubleshooting, customer empathy, integrations, APIs, and business impact overlap.
+
+## Core Strengths
+
+- Customer-facing technical support
+- Troubleshooting and root-cause analysis
+- JavaScript
+- SQL and data analysis
+- API/integration debugging
+- Documentation and enablement
+- Spanish fluency
