@@ -11,7 +11,7 @@ I am currently rebuilding my JavaScript foundation through freeCodeCamp and Plur
 - API troubleshooting
 - Debugging workflows
 - Support engineering / customer engineering projects
-- CU Boulder MS-CS coursework
+- CU Boulder Master of Science, Computer Science (MS-CS) coursework
 - GenAI application engineering foundations
 
 ## Active Learning
